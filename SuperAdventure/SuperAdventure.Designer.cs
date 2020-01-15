@@ -115,7 +115,7 @@
             this.btnTest.TabIndex = 8;
             this.btnTest.Text = "test";
             this.btnTest.UseVisualStyleBackColor = true;
-            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
+            this.btnTest.Click += new System.EventHandler(this.BtnTest_Click);
             // 
             // SuperAdventure
             // 
